@@ -32,25 +32,14 @@ Install with NPM
 ```
 
 Install with GITHUB CLI
-```GITHUB-CLI
-  cd path/to/directory
-  npm init(Follow onscreen instructions to finish the options-setup manually) or 
-  npm init -y to accept all(to finish setup automatically)
-  npm install @prashantbhambhani12/loginform1@1.0.0
-```
+#### Click here for [Github Installation](https://github.com/prashantbhambhani12/BBVA/packages/1023726) instructions
 
-Install with GITHUB PACKAGE.JSON
-```GITHUB package.json
-"@prashantbhambhani12/loginform1": "1.0.0"
-```
 
 ## Deployment instruction:-
 
-**To deploy this project follow following 3 steps:-**
+**To deploy this project follow following 2 steps:-**
 **1)** open path/to/directory/node_modules/@prashantbhambhani12/loginform1/index.html
-**2)** Change the path/to/directory in head link for js-module-file to 
- path/to/directory/node_modules/js-module-file
-**3)** Run the file in browser & use the following credentials to login.
+**2)** Run the file in browser & use the following credentials to login.
 email:-pr@bb.com
 pw:-12345678
 
